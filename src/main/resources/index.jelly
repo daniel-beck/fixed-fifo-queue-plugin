@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+  This plugin allows limiting the number of items in the queue for specific jobs. The oldest items will be removed when new ones are added.
+</div>
